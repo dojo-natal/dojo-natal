@@ -1,4 +1,4 @@
-# 
+# http://dojopuzzles.com/problemas/exibe/problema-do-miojo/
 
 import unittest
 from miojo import miojo
